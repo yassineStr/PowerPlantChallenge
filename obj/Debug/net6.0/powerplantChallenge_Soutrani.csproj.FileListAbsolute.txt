@@ -1,0 +1,7 @@
+C:\Users\soutrya\source\repos\powerplantChallenge_Soutrani\obj\Debug\net6.0\powerplantChallenge_Soutrani.csproj.AssemblyReference.cache
+C:\Users\soutrya\source\repos\powerplantChallenge_Soutrani\obj\Debug\net6.0\powerplantChallenge_Soutrani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soutrya\source\repos\powerplantChallenge_Soutrani\obj\Debug\net6.0\powerplantChallenge_Soutrani.AssemblyInfoInputs.cache
+C:\Users\soutrya\source\repos\powerplantChallenge_Soutrani\obj\Debug\net6.0\powerplantChallenge_Soutrani.AssemblyInfo.cs
+C:\Users\soutrya\source\repos\powerplantChallenge_Soutrani\obj\Debug\net6.0\powerplantChallenge_Soutrani.csproj.CoreCompileInputs.cache
+C:\Users\soutrya\source\repos\powerplantChallenge_Soutrani\obj\Debug\net6.0\powerplantChallenge_Soutrani.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\soutrya\source\repos\powerplantChallenge_Soutrani\obj\Debug\net6.0\powerplantChallenge_Soutrani.MvcApplicationPartsAssemblyInfo.cache

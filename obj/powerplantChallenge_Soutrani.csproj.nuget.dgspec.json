@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\soutrya\\source\\repos\\powerplantChallenge_Soutrani\\powerplantChallenge_Soutrani.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\soutrya\\source\\repos\\powerplantChallenge_Soutrani\\powerplantChallenge_Soutrani.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\soutrya\\source\\repos\\powerplantChallenge_Soutrani\\powerplantChallenge_Soutrani.csproj",
+        "projectName": "powerplantChallenge_Soutrani",
+        "projectPath": "C:\\Users\\soutrya\\source\\repos\\powerplantChallenge_Soutrani\\powerplantChallenge_Soutrani.csproj",
+        "packagesPath": "C:\\Users\\soutrya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\soutrya\\source\\repos\\powerplantChallenge_Soutrani\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\soutrya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Users\\soutrya\\Documents\\local nuget repo": {},
+          "http://mcq-nex50.cgi.credit-cgi.fr:8081/repository/nuget-group/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

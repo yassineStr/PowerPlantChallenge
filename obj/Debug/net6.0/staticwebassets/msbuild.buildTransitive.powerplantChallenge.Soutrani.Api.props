@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\powerplantChallenge.Soutrani.Api.props" />
+</Project>
